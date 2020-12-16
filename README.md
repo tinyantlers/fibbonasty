@@ -7,3 +7,6 @@ calculates the Fibonacci value by calling itself twice with values n-1 and n-2 t
 
 function 2 - bottom-up 
 The second function will mimic a loop in function form. Starts from the first Fibonacci value and continues to calculate each next value until the desired one is reached. 
+
+
+Both functions are recursive and output shows calls required fibonacci number. 
