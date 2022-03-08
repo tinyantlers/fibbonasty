@@ -1,4 +1,4 @@
-# fibonasty
+# fibonacci
 
 Program shows two different implementations of the fibonacci sequence in two separate functions. 
 
